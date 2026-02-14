@@ -30,6 +30,7 @@
 ## 🏆 Certifications & Experience
 - ✅ **JPMorgan Chase** - Advanced Software Engineering Virtual Internship (Forage)
   - Worked on Midas Core project using Spring Boot, Kafka, REST APIs, and H2 Database
+- ✅ **[Python Programming - GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/97835dc5b9d690f7b576a6dd65a15c5c.pdf)**
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariompandey)
