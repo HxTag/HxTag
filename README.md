@@ -235,12 +235,13 @@ Open To:
 
 <div align="center">
 
+<a href="https://hariom-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0FBF3E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/harixtag/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0FBF3E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/HxTag"><img src="https://img.shields.io/badge/GitHub-Follow-0A9F35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FBF3E,50:087A28,100:061A0B&height=150&section=footer&text=%22Somewhere%20between%20Imagination%20and%20Implementation.%22&fontFamily=Dancing%20Script&fontSize=20&fontColor=7BE495&fontAlignY=65" width="100%" />
