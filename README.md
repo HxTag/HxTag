@@ -83,20 +83,20 @@ My interest lies at the intersection of **applied machine learning** and **produ
 
 ## 🟢 AI / ML Expertise
 
-| Domain | Proficiency | Focus |
-|---|:---:|---|
-| Python | ●●●●○ | Data processing, ML applications and automation |
-| Machine Learning | ●●●○○ | Regression, classification, clustering and model training |
-| Scikit-learn | ●●●○○ | ML preprocessing, training and evaluation |
-| XGBoost | ●●●○○ | Gradient-boosted forecasting models |
-| Random Forest | ●●●○○ | Ensemble learning and baseline modelling |
-| Computer Vision | ●●●○○ | Real-time webcam and landmark-based applications |
-| OpenCV | ●●●○○ | Webcam capture and computer vision processing |
-| MediaPipe | ●●●○○ | Face, hand and pose landmark detection |
-| NumPy | ●●●○○ | Numerical computation |
-| Pandas | ●●●○○ | Data manipulation and preprocessing |
-| Deep Learning | ●●○○○ | Academic and practical exploration |
-| NLP | ●●○○○ | Academic and practical exploration |
+| Domain | Focus |
+|---|---|
+| Python |  Data processing, ML applications and automation |
+| Machine Learning |  Regression, classification, clustering and model training |
+| Scikit-learn | ML preprocessing, training and evaluation |
+| XGBoost | Gradient-boosted forecasting models |
+| Random Forest | Ensemble learning and baseline modelling |
+| Computer Vision |  Real-time webcam and landmark-based applications |
+| OpenCV | Webcam capture and computer vision processing |
+| MediaPipe | Face, hand and pose landmark detection |
+| NumPy |  Numerical computation |
+| Pandas |  Data manipulation and preprocessing |
+| Deep Learning |  Academic and practical exploration |
+| NLP |  Academic and practical exploration |
 
 <br/>
 
